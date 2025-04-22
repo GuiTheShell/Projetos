@@ -1,0 +1,49 @@
+body {
+  padding: 10px;
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+html {
+  color-scheme: light dark;
+}
+
+[modo-light-dark="light"] {
+  color-scheme: light;
+}
+
+[modo-light-dark="dark"] {
+  color-scheme: dark;
+}
+
+p {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+.imagem {
+  text-align: center;
+  border: 10px;
+}
+
+.container {
+  text-align: center;
+}
+
+.list {
+  display: inline-block;
+}
+
+a:hover {
+  color: aqua;
+}
+
+#selectModo {
+  font-size: larger;
+}
